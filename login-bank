@@ -340,20 +340,20 @@
                     <h2 id="welcome-message">Welcome, User</h2>
                 </div>
                 <div class="activation-banner">
-                    <p><strong>Account is not active!</strong></p>
-                    <p>Deposit to activate your account. Send funds to <code>paypal.me/DeposMalay</code> and include your UID <code>#800972413</code> in the note.</p>
+                    <p><strong>Account is now active!</strong></p>
+                    <p> you can now Send funds to <code>paypal.me/DeposMalay</code> and include your UID <code>#800972413</code> in the note.</p>
                     <button class="deposit-btn" id="deposit-toggle-btn">Make a Deposit</button>
                 </div>
 
                 <div id="deposit-iframe-container" class="hidden">
-                    <iframe src="https://www.paypal.me/DeposMalay" title="PayPal Deposit"></iframe>
+                    <iframe src="https://www.warlmalay.github.io" title="Deposit"></iframe>
                 </div>
 
                 <div class="account-info">
                     <div class="label" style="color: var(--gray-text);">Account Balance</div>
-                    <div class="balance">$0.00</div>
+                    <div class="balance">$+13.5</div>
                     <div class="account-number">
-                        Account: <span id="account-number-text">**** **** **** 851</span>
+                        Account: <span id="account-number-text">**** **** 900 851</span>
                         <i class="fa-solid fa-eye" id="toggle-account-number"></i>
                     </div>
                 </div>
@@ -374,7 +374,7 @@
                 </div>
 
                 <div class="list-view">
-                    No recent transactions
+                    17/06/2025[Deposit]
                 </div>
 
                 <div class="credit-card">
